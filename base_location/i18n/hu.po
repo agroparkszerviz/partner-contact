@@ -55,12 +55,12 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:base_location.view_company_form_city
 #: model_terms:ir.ui.view,arch_db:base_location.view_partner_form
 msgid "City completion"
-msgstr ""
+msgstr "Hely"
 
 #. module: base_location
 #: model:ir.model,name:base_location.model_res_city_zip
 msgid "City/locations completion object"
-msgstr ""
+msgstr "Hely"
 
 #. module: base_location
 #: model:ir.model,name:base_location.model_res_company
@@ -133,7 +133,7 @@ msgstr "Utoljára frissítve "
 #. module: base_location
 #: model_terms:ir.ui.view,arch_db:base_location.view_partner_form
 msgid "Location completion"
-msgstr ""
+msgstr "Hely"
 
 #. module: base_location
 #: model:ir.actions.act_window,name:base_location.action_zip_tree
